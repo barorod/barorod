@@ -3,5 +3,13 @@
 
 ## 👨‍💻 Software Development Projects:
 
-- <b>Full Stack Web App (NodeJS, Express, MongoDB, EJS, etc.)</b>
-  - [YelpCamp](https://github.com/barorod/YelpCamp) <b><i>[Demo](https://yelpcamp-mb2g.onrender.com/)</b></i>
+<p align="center">
+<img src="/YelpCamp.jpg" alt="YelpCamp">
+</p>
+
+<h1 align="center">YelpCamp | Campground Directory</h1>
+
+<p align="center">
+<a href="https://github.com/barorod/YelpCamp">Code</a> |
+<a href="https://yelpcamp-mb2g.onrender.com">Demo</a>
+</p>

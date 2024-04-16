@@ -4,7 +4,7 @@
 ## 👨‍💻 Software Development Projects:
 
 <p align="center">
-<img src="/YelpCamp.jpg" alt="YelpCamp">
+<img src="/YelpCamp.jpeg" alt="YelpCamp">
 </p>
 
 <h1 align="center">YelpCamp | Campground Directory</h1>

@@ -17,6 +17,5 @@
 <p><a href="https://github.com/barorod/YelpCamp"><strong>Code</strong></a> | <a href="https://yelpcamp-mb2g.onrender.com/"><strong>Demo</strong></a></p>
 <p><em>JavaScript, NodeJS, ExpressJS, MongoDB, EJS, Bootstrap 5</em></p>
 </div>
-<hl />
 
 ---

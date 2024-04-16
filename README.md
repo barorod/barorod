@@ -2,14 +2,20 @@
 ##### Full-Stack Developer & Digital Creator
 
 ## 👨‍💻 Software Development Projects:
+<div align="center">
 
-<p align="center">
-<img src="/YelpCamp.jpeg" alt="YelpCamp">
-</p>
+### YelpCamp
 
-<h1 align="center">YelpCamp | Campground Directory</h1>
+![YelpCamp](/YelpCamp.jpeg){: width="480px"}
 
-<p align="center">
-<a href="https://github.com/barorod/YelpCamp">Code</a> |
-<a href="https://yelpcamp-mb2g.onrender.com">Demo</a>
-</p>
+---
+
+### [Code]((https://github.com/barorod/YelpCamp) | [Demo](https://yelpcamp-mb2g.onrender.com/)
+
+---
+
+_JavaScript_, _NodeJS_, _ExpressJS_, _MongoDB_, _EJS_, _Bootstrap 5_
+
+---
+
+</div>

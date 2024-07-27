@@ -5,7 +5,7 @@
 
 <h2>Languages-Frameworks-Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,html,css,js,bootstrap,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,html,css,js,ts,bootstrap,tailwind,git,github" />
 </div>
 
 ---
